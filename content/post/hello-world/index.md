@@ -1,19 +1,17 @@
 ---
 title: Hello World
-description: Welcome to Hugo Theme Stack
+description: Welcome to Soren's Blog
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
-image: cover.jpg
+date: 2023-08-26 00:00:00+0000
+image: cover.png
 categories:
-    - Example Category
+    - Beginnings
 tags:
-    - Example Tag
+    - General
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+Welcome to my blog! This is a pretty big step for me, as I've never really develped a website like this before, but I'm excited to see where it goes! 
 
-For more information about this theme, check the documentation: https://docs.stack.jimmycai.com/
+Who knows where this'll go. I'm excited to find out. 
 
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
-
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+> Banner by [Me!](https://itaku.ee/profile/soren)
