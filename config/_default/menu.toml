@@ -22,3 +22,11 @@ url = "https://bsky.app/profile/paintdog.art"
 
 [social.params]
 icon = "bluesky"
+
+[[social]]
+identifier = "itaku"
+name = "Itaku"
+url = "https://itaku.ee/profile/soren"
+
+[social.params]
+icon = "itaku"
